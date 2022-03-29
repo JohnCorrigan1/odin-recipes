@@ -1,0 +1,47 @@
+.title {
+    color: green;
+    text-align: center;
+}
+
+.sub-heading {
+    color: blue;
+    text-align: center;
+}
+
+.food-pic {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients {
+    background-color: aquamarine;
+}
+
+.directions {
+    background-color: blueviolet;
+}
+
+.nav-link {
+    text-align: center;
+    transition: transform 3s ease-in-out;
+    padding-top: 20px;
+
+}
+
+.nav-link:hover{
+transform: scale(2);
+color: orange;
+
+}
+
+a:visited {
+    text-decoration: none;
+    color:gold;
+}
+
+body {
+    background-color: grey;
+}
